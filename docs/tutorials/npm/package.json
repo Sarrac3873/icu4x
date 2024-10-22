@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@popperjs/core": "^2.11.5",
-    "bootstrap": "^5.2.0",
+    "bootstrap": "^5.3.3",
     "data.either": "^1.5.2",
     "icu4x": "file:../../../ffi/npm"
   },
